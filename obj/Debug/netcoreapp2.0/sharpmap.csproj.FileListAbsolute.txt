@@ -1,0 +1,10 @@
+d:\dev\python\nmmap\sharpmap\bin\Debug\netcoreapp2.0\sharpmap.deps.json
+d:\dev\python\nmmap\sharpmap\bin\Debug\netcoreapp2.0\sharpmap.runtimeconfig.json
+d:\dev\python\nmmap\sharpmap\bin\Debug\netcoreapp2.0\sharpmap.runtimeconfig.dev.json
+d:\dev\python\nmmap\sharpmap\bin\Debug\netcoreapp2.0\sharpmap.dll
+d:\dev\python\nmmap\sharpmap\bin\Debug\netcoreapp2.0\sharpmap.pdb
+d:\dev\python\nmmap\sharpmap\obj\Debug\netcoreapp2.0\sharpmap.csprojResolveAssemblyReference.cache
+d:\dev\python\nmmap\sharpmap\obj\Debug\netcoreapp2.0\sharpmap.csproj.CoreCompileInputs.cache
+d:\dev\python\nmmap\sharpmap\obj\Debug\netcoreapp2.0\sharpmap.AssemblyInfo.cs
+d:\dev\python\nmmap\sharpmap\obj\Debug\netcoreapp2.0\sharpmap.dll
+d:\dev\python\nmmap\sharpmap\obj\Debug\netcoreapp2.0\sharpmap.pdb
